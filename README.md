@@ -14,12 +14,13 @@ Apart from some obvious checks, you will also need to check whether the day valu
 exceeds the number of days in the input month. If it does, then the input date does not exist on the
 calendar.
 
-
+//
 Task 2.
 Write a script to convert a given number to bytes, kilobytes, megabytes, and gigabytes
 In this task, you will write a simple shell script that can print a given input in bytes (B), kilobytes
 (KB), megabytes (MB), and gigabytes (GB). You must use the utility bc in your shell script to do
 the calculations. The formulae are as follows:
+//
 1 KB = 1024 B
 1 MB = 1024 KB
 1 GB = 1024 MB
